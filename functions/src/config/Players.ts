@@ -60,6 +60,12 @@ export const famous_players = [
     accounts: ['Razørk Activoo'],
   },
   {
+    id: 'RNATION',
+    playerName: 'RNATION',
+    twitchName: 'rnatioon',
+    accounts: ['eMz RNATION']
+  },
+  {
     id: 'Shiro',
     playerName: 'Shiro',
     twitchName: 'adcshiiro',

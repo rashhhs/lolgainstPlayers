@@ -2,12 +2,6 @@ import * as functions from 'firebase-functions';
 import * as express from 'express';
 import * as bodyParser from "body-parser";
 import {famous_players} from "./config/Players";
-// // Start writing Firebase Functions
-// // https://firebase.google.com/docs/functions/typescript
-//
-// export const helloWorld = functions.https.onRequest((request, response) => {
-//  response.send("Hello from Firebase!");
-// });
 
 const app = express();
 const main = express();
